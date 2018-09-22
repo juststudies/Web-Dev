@@ -23,9 +23,7 @@ body{
     position: absolute;
     width: 100%; /*Não sabia que dava pra redimensionar assim... locura!*/
     height: 100%;
-    transition: 0.5s;
-    border: 10px solid #000;
-    
+    transition: 0.5s;    
 }
 
 /* eis que vem a sacada, camadas por transparência decrescente*/
